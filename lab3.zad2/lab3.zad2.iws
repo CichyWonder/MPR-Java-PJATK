@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="407b8cce-259b-448f-b234-2e78541eb5da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JAZ/jaz-java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAZ/jaz-java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAZ/jaz-java/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAZ/jaz-java/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAZ/jaz-java/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAZ/jaz-java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAZ/jaz-java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lottery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1.zad1/Lab1.zad1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1.zad2/src/main/java/DisplayImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2.zad1/Lab2.zad1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2.zad2/Lab2.zad2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wykładtdd/wyklad-tdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wykładtdd/wykladtdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../buildmaven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../buildmaven/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../buildmaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../buildmaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../buildmaven/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../buildmaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../buildmaven/buildmaven.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/dictionaries/cichy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/CYBERSNAKE2077.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/CYBERSNAKE2077.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/CYBERSNAKE2077.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/artifacts/CYBERSNAKE2077_jar/CYBERSNAKE2077.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Control.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Game$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Game$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/HighscoresController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/ReadMeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Resources/css/Game.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Resources/css/Highscores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Resources/css/Menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Resources/css/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Resources/css/city.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Resources/css/superstar_memesbruh03.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/SterowanieController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/fxml/Highscores.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/fxml/Menu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/fxml/ReadMe.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/App/fxml/Sterowanie.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/META-INF/CYBERSNAKE2077.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/out/production/CYBERSNAKE2077/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Control.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/HighscoresController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/ReadMeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Resources/css/Game.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Resources/css/Highscores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Resources/css/Menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Resources/css/blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Resources/css/city.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Resources/css/superstar_memesbruh03.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/SterowanieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/fxml/Highscores.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/fxml/Menu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/fxml/ReadMe.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/App/fxml/Sterowanie.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CYBERSNAKE2077/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Klasy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Klasy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lottery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lottery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SNEJK.rar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jnc9EPuzPsFcr2j8TYD2nOiE3c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JAZ/jaz-java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SklepTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.pjatk.tdd.test.sklep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.pjatk.tdd.test.sklep" />
+      <option name="MAIN_CLASS_NAME" value="pl.pjatk.tdd.test.sklep.SklepTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SklepTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="407b8cce-259b-448f-b234-2e78541eb5da" name="Default Changelist" comment="" />
+      <created>1604443149706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604443149706</updated>
+      <workItem from="1604443150816" duration="459000" />
+      <workItem from="1604669260755" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1604669984774">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604669984774" />
+    <state width="1540" height="455" key="GridCell.Tab.0.bottom" timestamp="1604443613422">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1540" height="455" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604443613422" />
+    <state width="1540" height="455" key="GridCell.Tab.0.center" timestamp="1604443613422">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1540" height="455" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1604443613422" />
+    <state width="1540" height="455" key="GridCell.Tab.0.left" timestamp="1604443613422">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1540" height="455" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1604443613422" />
+    <state width="1540" height="455" key="GridCell.Tab.0.right" timestamp="1604443613422">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1540" height="455" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1604443613422" />
+    <state x="504" y="321" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604443208791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="504" y="321" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860@0.0.1600.860" timestamp="1604443208791" />
+    <state x="405" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604443480526">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="405" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1604443480526" />
+  </component>
+</project>

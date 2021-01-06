@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Students add</title>
+</head>
+<body>
+<form action="#" th:action="@{/students/add}" th:object="${student}" method="post">
+    <table border="1">
+            <tr>
+                <td>
+                    <label>Type name of student</label>
+                    <input type="text" th:field="${student.firstName}">
+                    <label>Type last name of student</label>
+                    <input type="text" th:field="${student.lastName}">
+                </td>
+                <input type="submit" value="Send">
+            </tr>
+    </table>
+</form>
+</body>
+</html>

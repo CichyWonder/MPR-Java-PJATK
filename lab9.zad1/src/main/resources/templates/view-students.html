@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Students view </title>
+</head>
+<body>
+<table>
+    <tr th:each="student: ${students}">
+
+        <label for="id">ID:</label>
+        <td id="id" th:text="${student.id}"> </td>
+        <label for="firstname">FIRSTNAME:</label>
+        <td id="firstname" th:text="${student.firstName}"> </td>
+        <label for="lastName">LASTNAME:</label>
+        <td id="lastName" th:text="${student.lastName}"> </td>
+    </tr>
+</table>
+</body>
+</html>

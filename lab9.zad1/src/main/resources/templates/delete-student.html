@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Students update</title>
+</head>
+<body>
+<table>
+    <form action="#" th:action="@{/students/update}" th:object="${student}" method="post">
+
+        <tr th:each="student: ${students}">
+            <label for="id">ID:</label>
+            <td id="id" th:text="${student.id}"> </td>
+            <label for="firstname">FIRSTNAME:</label>
+            <input type="text" id="firstname" th:value="${student.firstName}">
+            <label for="lastName">LASTNAME:</label>
+            <input id="lastName" th:value="${student.lastName}">
+            <input type="submit" value="delete">
+        </tr>
+    </form>
+</table>
+</body>
+</html>
